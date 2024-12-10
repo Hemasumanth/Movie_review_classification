@@ -69,7 +69,7 @@ Hyper-Parameter Tuning.ipynb: Hyperparameter optimization using grid search and 
 
 # Installation
 
-git clone https://github.com/Hemasumanth/Movie_reviwe_class.git
+git clone https://github.com/Hemasumanth/Movie_review_classification.git
 cd BreadcrumbsMovie_reviwe_class
 
 pip install -r requirements.txt
